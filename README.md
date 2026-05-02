@@ -20,7 +20,7 @@ the Servlet reads the cookie and displays a personalised welcome-back message wi
 ## Technologies Used
 
 - Java (Servlets)
-- HTML, CSS (inline)
+- HTML
 - Apache Tomcat 10
 - Eclipse IDE
 
